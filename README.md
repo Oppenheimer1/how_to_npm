@@ -1,1 +1,1 @@
-# NPM HOW TO Walkthrough, commit by commit
+# NPM HOW TO Walkthrough, by commit
