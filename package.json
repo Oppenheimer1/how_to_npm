@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oppenheimer1/how_to_npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Oppenheimer1/how_to_npm/issues"
+  },
+  "homepage": "https://github.com/Oppenheimer1/how_to_npm#readme"
 }
